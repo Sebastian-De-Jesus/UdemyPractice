@@ -1,0 +1,5 @@
+print("Welcome to the simple band generator!")
+city = input("What city did you grow up in? : ")
+petName = input("What is your pets name? : ")
+bandName = (city + " " + petName)
+print(bandName)
